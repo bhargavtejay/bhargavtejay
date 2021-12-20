@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhargavtejay
-- 👀 I’m interested in DevOps, Cloud, SystemAdmin
+- 👀 I’m interested in DevOps, Cloud Computing, SystemAdmin
 - 🌱 I’m currently learning K8S
 <!---
 - 💞️ I’m looking to collaborate on ...
